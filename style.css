@@ -98,7 +98,7 @@ fieldset legend {
     color: #C1BCCC;
 }
 
-.input-wrapper input {
+.input-wrapper input, textarea {
 
     background: #fafafc;
 
@@ -108,4 +108,9 @@ fieldset legend {
     height: 56px;
 
     padding: 0 24px;
+}
+
+textarea {
+    padding: 0;
+    height: 168px;
 }
