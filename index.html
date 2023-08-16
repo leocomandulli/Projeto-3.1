@@ -90,36 +90,39 @@
                 </div>
 
                 <!--Caixa de seleção evento privado-->
-                <div class="input-wrapper">
-                    <label for="event-type">Evento privado</label>
+                <div class="checkbox-wrapper">
                     <input type="checkbox" id="event-type">
+                    <label for="event-type">Evento privado</label>
                 </div>
 
             </fieldset>
 
-            <fieldset id="date"> <!--Informações de data-->
+            <fieldset> <!--Informações de data-->
                 <legend>Data e hora</legend>
                 
-                <!--Data-->
-                <div class="input-wrapper">
-                    <label for="date">Data:
-                    </label>
-                    <input type="date" id="date">
+                <div class="date" >               
+                    <!--Data-->
+                    <div class="input-wrapper">
+                        <label for="date">Data:
+                        </label>
+                        <input type="date" id="date">
+                    </div>
+    
+                    <!--Horário de início-->
+                    <div class="input-wrapper">
+                        <label for="initial-hour">Das:
+                        </label>
+                        <input type="time" id="initial-hour">
+                    </div>
+    
+                    <!--Horário de fim-->
+                    <div class="input-wrapper">
+                        <label for="final-hour">Até:
+                        </label>
+                        <input type="time" id="final-hour">
+                    </div>
                 </div>
-
-                <!--Horário de início-->
-                <div class="input-wrapper">
-                    <label for="initial-hour">Das:
-                    </label>
-                    <input type="time" id="initial-hour">
-                </div>
-
-                <!--Horário de fim-->
-                <div class="input-wrapper">
-                    <label for="final-hour">Até:
-                    </label>
-                    <input type="time" id="final-hour">
-                </div>
+                
             </fieldset>
             
             
