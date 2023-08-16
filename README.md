@@ -36,7 +36,7 @@ O Site é um formulário onde o cliente pode fazer um pedido de criação de eve
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/7m2F3tQZ1WbZgrCCzHjF06/Projeto01-Extra-(Copy)?node-id=12%3A2&mode=dev>).
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/Qt3vYFzUPTIiFwH2row8zB/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1%3A63&mode=dev>).
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
